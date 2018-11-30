@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         print("first commit")
         print("b1 first commit")
         
+        print("b2 first commit")
     }
 
     
