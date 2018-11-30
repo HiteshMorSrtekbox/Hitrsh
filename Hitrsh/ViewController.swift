@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
 
         print("first commit")
-        
+        print("b2 first commit")
     }
 
     
